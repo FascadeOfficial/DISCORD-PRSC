@@ -7,7 +7,7 @@ import os
 # CONFIGURATION
 # -----------------------------
 
-OWNER_ID = 1350160061967630399 # Ton ID Discord (celui qui reçoit les alertes)
+OWNER_ID = 1350160061967630399 
 
 TRACKED = [
     1035868089173192815,
